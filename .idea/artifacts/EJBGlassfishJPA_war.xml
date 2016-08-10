@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EJBGlassfishJPA:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="EJBGlassfishJPA-1.0.war">
+      <element id="artifact" artifact-name="EJBGlassfishJPA:war exploded" />
+    </root>
+  </artifact>
+</component>
